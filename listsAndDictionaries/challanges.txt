@@ -1,0 +1,8 @@
+challanges
+1.print a list of words in random order, list should be random everytime
+2.creat a character builder, give user 30 points and allow them to add/take
+their points towards four major attributes: strength, health, wisdom, dexterity
+3.who's your daddy - a program that takes users name and generates their fathers
+name, you can remove father-son pairs created
+4.improve who's your daddy program to generate grandather names, and use a
+dictionary somehow
